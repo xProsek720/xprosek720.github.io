@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Strona xProska
 description: Dodaj do zakładek! B)
-permalink: /index.md
-permalink: /README.md
-permalink: /404.md
+permalink: /index
+permalink: /README
+permalink: /404
