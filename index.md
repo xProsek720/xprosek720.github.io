@@ -1,3 +1,4 @@
+markdown: GFM
 <link type="text/css" rel="stylesheet" href="/styles/style.css" />
 ##HOME
 
