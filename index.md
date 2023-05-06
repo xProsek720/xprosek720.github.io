@@ -1,3 +1,4 @@
+<link type="text/css" rel="stylesheet" href="style/style.css" />
 ##HOME
 
 _Witaj na stronie głównej!_
